@@ -1,0 +1,5 @@
+AppData/
+*.tmp
+.VirtualBox/
+.m2/
+.ipynb_checkpoints/
